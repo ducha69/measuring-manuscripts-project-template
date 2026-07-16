@@ -9,6 +9,9 @@
 
 * { box-sizing: border-box; }
 
+body {
+  background-image: url("https://raw.githubusercontent.com/ducha69/Feldpost/refs/heads/main/background.png");
+}
 
 body {
   background-image: url("https://raw.githubusercontent.com/ducha69/Feldpost/refs/heads/main/background.png");
