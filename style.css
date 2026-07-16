@@ -9,6 +9,8 @@
 
 * { box-sizing: border-box; }
 
+background-image: url("../img/background.png")
+
 body {
   margin: 0;
   background: var(--bg);
