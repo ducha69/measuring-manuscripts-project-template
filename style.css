@@ -11,9 +11,7 @@
 
 body {
   background-image: url("https://raw.githubusercontent.com/ducha69/Feldpost/refs/heads/main/background.png");
-}
-
-body {
+  background-color: #cccccc;
   margin: 0;
   background: var(--bg);
   color: var(--ink);
