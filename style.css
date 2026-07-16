@@ -9,11 +9,9 @@
 
 * { box-sizing: border-box; }
 
-body {
-background-image: url("https://github.com/ducha69/Feldpost/blob/main/background.png");
-}
 
 body {
+  background-image: url("https://github.com/ducha69/Feldpost/blob/main/background.png");
   margin: 0;
   background: var(--bg);
   color: var(--ink);
